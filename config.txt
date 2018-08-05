@@ -1,7 +1,6 @@
 db=test
 host=localhost
-<<<<<<< HEAD
 alikey='yyy'
-=======
 wechatappkey='abcdef'
->>>>>>> wechat
+no password
+
